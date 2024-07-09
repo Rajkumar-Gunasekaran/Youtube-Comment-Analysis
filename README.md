@@ -6,11 +6,16 @@ This project provides a comprehensive solution for analyzing sentiment and extra
 **Key Features:**
 
 **Interactive Interface:** Input a YouTube video URL to analyze sentiment and explore keyword trends in comments.
+
 **Data Retrieval:** Securely fetch comments using the YouTube Data API and Google API Client.
+
 **Text Processing:** Utilize NLTK for tokenization, stopword removal, and frequency analysis of keywords.
+
 **Sentiment Analysis:** Employ VADER Sentiment for categorizing comments into positive, neutral, and negative sentiments.
+
 **Visualization:** Visualize sentiment distributions using Matplotlib and generate word clouds of keyword frequencies with WordCloud.
-E**nvironment Security:** Manage API keys securely with dotenv, following industry best practices.
+
+**Environment Security:** Manage API keys securely with dotenv, following industry best practices.
 
 **Technologies Used:**
 - Python
