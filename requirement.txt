@@ -1,2 +1,12 @@
 google-api-python-client
 pip install google-api-python-client python-dotenv nltk matplotlib wordcloud
+
+Python
+Streamlit
+Google API Client
+YouTube Data API
+NLTK
+VADER Sentiment
+Matplotlib
+WordCloud
+dotenv.
